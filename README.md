@@ -3,11 +3,11 @@
  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100">
 
  
-Currently, I’m working as Fullstack Developer in Conmega ACE. I worked at a small company in which I used to develop and design advergames, web sites, for ad agencies . I’m looking for new challenges in which I could apply all of the knowledge that I acquired through the last years.
+Currently, I’m working as Frontend Developer in Pi Data & Consulting. I worked at a small company in which I used to develop and design advergames, web sites, for ad agencies . I’m looking for new challenges in which I could apply all of the knowledge that I acquired through the last years.
 
 
 #### SKILLS :computer:
-REACT / ANGULAR / JAVASCRIPT / .NET / C# / CSS / HTML 
+REACT / REACT NATIVE / ANGULAR / JAVASCRIPT / .NET / C# / CSS / HTML / PHP
 
 #### LINKS
 - [Linkedin](https://www.linkedin.com/in/mathias-pereira/).
