@@ -7,7 +7,7 @@ Currently, I’m working as Frontend Developer in Pi Data & Consulting. I worked
 
 
 #### SKILLS :computer:
-REACT / REACT NATIVE / ANGULAR / JAVASCRIPT / .NET / C# / CSS / HTML / PHP
+REACT / REACT NATIVE / ANGULAR / JAVASCRIPT / .NET / C# / CSS / HTML
 
 #### LINKS
 - [Linkedin](https://www.linkedin.com/in/mathias-pereira/).
