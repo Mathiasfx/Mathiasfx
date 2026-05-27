@@ -2,9 +2,12 @@
 
 ## Senior Frontend Developer
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100">
 
 Senior Frontend Developer con más de 5 años de experiencia construyendo productos web y mobile para entornos corporativos. Especializado en React, Next.js, Angular, React Native y TypeScript. Actualmente enfocado en soluciones de IA, RAG, automatización y arquitectura escalable.
+
+<p align="left">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk4M2phcXlkM296OHBmeTBqcXh1cmI4cWZ0cHAyZ3NkcDY2bHh5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="18%">
+</p>
 
 #### 🛠 TECH STACK
 <p align="left">
