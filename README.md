@@ -28,5 +28,5 @@ Senior Frontend Developer con más de 5 años de experiencia construyendo produc
 <p align="left">
   <a href="https://mathiaspereira.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mathias-pereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/channel/UC1BMrWdZwz-qR3CH_wKXVBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@mathiascodes-dev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
